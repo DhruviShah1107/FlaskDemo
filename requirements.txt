@@ -39,6 +39,7 @@ oauthlib==3.2.2
 opencv-python==4.9.0.80
 opt-einsum==3.3.0
 packaging==23.2
+pandas>=0.19
 pillow==10.2.0
 protobuf==4.23.4
 pyasn1==0.5.1
