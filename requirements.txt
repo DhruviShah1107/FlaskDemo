@@ -19,7 +19,7 @@ google-auth-oauthlib==1.2.0
 google-pasta==0.2.0
 graphviz==0.20.1
 grpcio==1.60.0
-gunicorn==19.9.0
+gunicorn==21.2.0
 h5py==3.10.0
 idna==3.6
 itsdangerous==2.1.2
@@ -39,7 +39,7 @@ oauthlib==3.2.2
 opencv-python==4.9.0.80
 opt-einsum==3.3.0
 packaging==23.2
-pandas>=0.19
+pandas==2.2.1
 pillow==10.2.0
 protobuf==4.23.4
 pyasn1==0.5.1
